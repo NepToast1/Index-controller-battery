@@ -1,0 +1,7 @@
+LiPo: https://www.aliexpress.com/item/33021257118.html (no affiliate)
+Charger: https://www.amazon.de/gp/product/B07QHTK791?psc=1  (no affiliate)
+Tactile toggle switch: https://www.aliexpress.com/item/1005001599025030.html (no affiliate)
+Wire: 1mm will do https://www.amazon.de/gp/product/B07V5FVSYL?psc=1 (no affiliate)
+Resistor: 100K
+P-Mos: at least -1.5A and at least 5V
+For connection to the Index controller use a USB C 90° cable
